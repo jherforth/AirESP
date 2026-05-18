@@ -2,9 +2,6 @@
 
 **Professional CO₂, Temperature & Humidity Monitor** with TFT display, web dashboard, and automatic fresh-air calibration.
 
-![AirESP](images/screenshot.jpg)  
-*(Add a nice photo or screenshot here)*
-
 ## Features
 
 - **Accurate CO₂ monitoring** using MQ135 sensor with automatic calibration
