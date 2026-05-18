@@ -56,3 +56,8 @@ The device automatically publishes discovery messages. It will appear in HA as t
 BASE_R0  10000  Base resistance for MQ135
 calibrationMultiplier  1.0  Auto-adjusted during calibration
 CALIBRATION_DURATION  300000 ms  5 minutes
+
+## Acknowledgments
+
+Built with ❤️ using ESP32, TFT_eSPI, and PubSubClient
+Inspired by common MQ135 calibration techniques
