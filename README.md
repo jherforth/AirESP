@@ -59,5 +59,5 @@ CALIBRATION_DURATION  300000 ms  5 minutes
 
 ## Acknowledgments
 
-Built with ❤️ using ESP32, TFT_eSPI, and PubSubClient
-Inspired by common MQ135 calibration techniques
+- Built with ❤️ using ESP32, TFT_eSPI, and PubSubClient
+- Inspired by common MQ135 calibration techniques
